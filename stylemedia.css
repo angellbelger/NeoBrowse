@@ -1,2 +1,10 @@
 @charset "UTF-8";
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    width: 100vw;
+}
