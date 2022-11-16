@@ -1,0 +1,1 @@
+time = window.document.querySelector('')
