@@ -1,5 +1,5 @@
 var date = new Date()
-var hour = date.getHour()
+var hour = date.getHours()
 var minutes = date.getMinutes()
 
 
