@@ -23,12 +23,12 @@ main {
 section#cellphone {
     position: absolute;
     background-color: aqua;
-    height: 627px;
+    height: 619px;
     width: 311px;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: transparent url(../pacote-d013/imagens/frame-iphone.png);
+    background: transparent url(../pacote-d013/imagens/iphonex.png);
 
 
 }
