@@ -41,3 +41,15 @@ iframe#screen {
     left: 23px;
     border-radius: 3px;
 }
+
+section#media {
+    text-align: right;
+}
+
+section#media img {
+    height: 60px;
+    margin: 10px;
+    border: solid 2px #000000;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px #00000079;
+}
