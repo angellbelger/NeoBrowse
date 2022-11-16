@@ -51,5 +51,12 @@ section#media img {
     margin: 10px;
     border: solid 2px #000000;
     border-radius: 50px;
-    box-shadow: 10px 10px 15px #00000079;
+    box-shadow: 10px 10px 20px #000000;
+    box-sizing: border-box;
+}
+
+section#media img:hover {
+    border: solid 4px #A502D7;
+    transform: translate(-5%, -5%);
+    transition: transform 0.3s;
 }
