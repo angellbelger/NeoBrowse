@@ -11,12 +11,12 @@ body, html {
 }
 
 body {
-    background-image: url(../pacote-d013/imagens/);
+    background-image: url(../pacote-d013/imagens/background-tokyo.jpg);
+    background-size: cover;
 }
 
 main {
     position: relative;
-    background-color: green;
     height: 100vh;
 }
 
