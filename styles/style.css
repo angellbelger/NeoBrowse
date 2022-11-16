@@ -1,2 +1,34 @@
 @charset "UTF-8";
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body, html {
+    background-color: black;
+    height: 100vh;
+}
+
+body {
+    background-image: url(../pacote-d013/imagens/);
+}
+
+main {
+    position: relative;
+    background-color: green;
+    height: 100vh;
+}
+
+section#cellphone {
+    position: absolute;
+    background-color: aqua;
+    height: 627px;
+    width: 311px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: transparent url(../pacote-d013/imagens/frame-iphone.png);
+
+
+}
