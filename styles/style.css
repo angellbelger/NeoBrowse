@@ -28,18 +28,19 @@ section#cellphone {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: transparent url(../pacote-d013/imagens/iphonex.png);
+    background: transparent url(../pacote-d013/imagens/iphoney.png);
+    background-repeat: no-repeat;
 
 
 }
 
 iframe#screen {
     position: relative;
-    width: 265px;
-    height: 469px;
-    top: 81.9px;
-    left: 23px;
-    border-radius: 3px;
+    width: 271px;
+    height: 485px;
+    top: 14.9px;
+    left: 19px;
+    border-radius: 33px 33px 38px 38px;
 }
 
 section#media {
