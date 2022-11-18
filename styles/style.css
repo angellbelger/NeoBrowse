@@ -28,7 +28,7 @@ section#cellphone {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: transparent url(../pacote-d013/imagens/iphoney.png);
+    background: transparent url(../pacote-d013/imagens/iphonez.png);
     background-repeat: no-repeat;
 
 
@@ -37,10 +37,11 @@ section#cellphone {
 iframe#screen {
     position: relative;
     width: 271px;
-    height: 485px;
-    top: 14.9px;
+    height: 491px;
+    top: 47.9px;
     left: 19px;
-    border-radius: 33px 33px 38px 38px;
+    border-radius: 6px 6px 30px 30px;
+    box-shadow: inset 3px 3px 5px;
 }
 
 section#media {
