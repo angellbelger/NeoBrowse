@@ -6,13 +6,14 @@
 
 ---
 
-📱 NeoBrowse is a prototype born from my earlier project social-media-WWW.
+📱 NeoBrowse is a prototype born from my earlier project, "social-media".
 It represents a step toward blending visual storytelling, social interaction, and futuristic browsing in a single experience.
 
 The app allows navigation through digital frames — currently using real screenshots from my own phone as the base. While not fully functional yet, it demonstrates the concept and flow of a new way to explore content, as if walking through a cyber-urban environment.
 
 Built over years of iteration and creative exploration, NeoBrowse carries both technical experimentation and a personal legacy. It reflects my vision of systems that can grow beyond their creator and still deliver real-world impact.
 
+[Click here to view it on GitHub Pages](https://angellbelger.github.io/NeoBrowse/)
 ---
 
 ## License  
